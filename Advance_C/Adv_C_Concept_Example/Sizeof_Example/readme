@@ -1,1 +1,3 @@
-
+In C programming, the sizeof operator is used to determine the size, in bytes, of a data type or a variable. The syntax for sizeof is as follows:
+sizeof(type)
+sizeof(expression)
